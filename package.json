@@ -1,16 +1,22 @@
 {
-  "directories": {
-    "lib": "src"
+  "author": {
+    "email": "ejohnson@showpitch.com",
+    "name": "Eric Johnson",
+    "url": "http://showpitch.com"
   },
-  "main": "index.js",
-  "format": "es6",
-  "registry": "jspm",
-  "dependencies": {
-    "css": "github:systemjs/plugin-css@^0.1.0"
+  "bugs": {
+    "url": "http://github.com/Showpitch/icons/issues"
   },
-  "devDependencies": {
-    "babel": "npm:babel-core@^5.8.24",
-    "babel-runtime": "npm:babel-runtime@^5.8.24",
-    "core-js": "npm:core-js@^1.1.4"
-  }
+  "dependencies": {},
+  "description": "Icons for showpitch",
+  "devDependencies": {},
+  "license": "MIT",
+  "name": "showpitch-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Showpitch/icons"
+  },
+  "scripts": {},
+  "style": "icons.css",
+  "version": "1.0.2"
 }
